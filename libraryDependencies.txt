@@ -1,0 +1,1 @@
+"cats-core", "eff", "monocle-core", "monocle-generic",  "monocle-macro", "mouse"
